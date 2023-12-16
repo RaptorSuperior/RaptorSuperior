@@ -4,6 +4,7 @@
 <h3 align="center"> also i'm interested in design, programing, neural nets, web - wordpress, joomla:) </h3>
 
 - 🌱 Check out my website:<br>↳https://lordsuperior.ru/
+<br>↳https://lord3fon.ru/
 
 - 📫 And my social networks:<br>↳https://vk.com/lordsuperior
 <!---
