@@ -1,6 +1,7 @@
 <h1 align="center"> Hello there! ❤️ </h1>
 
-<h3 align="center"> My name is Andrew i'm computer science specialist, also i'm interested in design, programing, neural nets, web - wordpress, joomla </h3>
+<h3 align="center"> My name is Andrew i'm computer science specialist 👩🏻‍💻 </h3>
+<h3 align="center"> also i'm interested in design, programing, neural nets, web - wordpress, joomla:) </h3>
 
 - 🌱 Check out my website:<br>↳https://lordsuperior.ru/
 
