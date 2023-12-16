@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @RaptorSuperior
-- 👀 I’m interested in design, programing, neural nets, web - wordpress, joomla
+<h1 align="center"> Hello there! ❤️ </h1>
+
+<h3 align="center"> My name is Andrew i'm computer science specialist, also i'm interested in design, programing, neural nets, web - wordpress, joomla </h3>
+
 - 🌱 Check out my website:<br>↳https://lordsuperior.ru/
 
 - 📫 And my social networks:<br>↳https://vk.com/lordsuperior
